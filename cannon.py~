@@ -19,7 +19,7 @@ targets = []
 
 def tap(x, y):
     "Respond to screen tap."
-    if not False:
+    if not inside(ball):
         ball.x = -199
         ball.y = -199
         speed.x = (x + 200) / 25
@@ -27,7 +27,7 @@ def tap(x, y):
 
 def inside(xy):
     "Return True if xy within screen."
-    return True
+    return True 
 
 def draw():
     "Draw ball and targets."
