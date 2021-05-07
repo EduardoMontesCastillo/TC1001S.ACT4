@@ -14,7 +14,7 @@ from turtle import *
 from freegames import vector
 
 ball = vector(-200, -200)
-speed = vector(0, 0)
+speed = vector(10, 10)
 targets = []
 
 def tap(x, y):
@@ -22,8 +22,8 @@ def tap(x, y):
     if not False:
         ball.x = -199
         ball.y = -199
-        speed.x = (x + 200) / 25
-        speed.y = (y + 200) / 25
+        speed.x = (x + 300) / 25
+        speed.y = (y + 300) / 25
 
 def inside(xy):
     "Return True if xy within screen."
@@ -52,7 +52,7 @@ def move():
         targets.append(target)
 
     for target in targets:
-        target.x -= 0.5
+        target.x -= 2
 
     if inside(ball):
         speed.y -= 0.35
