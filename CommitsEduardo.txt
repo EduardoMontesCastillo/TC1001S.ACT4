@@ -1,4 +1,37 @@
-t 1677de0902f7c79f3150a56c7decd98924e548fd (HEAD -> master)
+t 94d579e24b417c922126c230b5b54144fd3c19f1 (HEAD -> master, origin/master,
+origin/HEAD)
+Merge: b5aadd7 6eb085f
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Fri May 7 09:52:24 2021 -0600
+
+    Infinito
+
+commit 6eb085f1771616eacf872842ad4347e82d985b72
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 10:43:23 2021 -0500
+
+    Creacion de ReadMe
+
+commit b5aadd7b27e49d3feffcf0788e460802b4fb1222
+Author: Eduardo Montes <eduardoandremontes@gmail.com>
+Date:   Fri May 7 09:43:19 2021 -0600
+
+    Infinito
+
+commit 6b103905707c444361a126aeb22a669a1aa98c52
+Merge: 1677de0 40b4bae
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 10:27:08 2021 -0500
+
+    Merge branch 'ModRam'
+
+commit 40b4bae2265dd542becaf57f563994f8918a18cb
+Author: ToroLoco83 <ram_yosh222_@hotmail.com>
+Date:   Fri May 7 10:22:41 2021 -0500
+
+    Aumento de velocidad target ball
+
+commit 1677de0902f7c79f3150a56c7decd98924e548fd (origin/ModEdu, ModEdu)
 Author: Eduardo Montes <eduardoandremontes@gmail.com>
 Date:   Fri May 7 09:12:45 2021 -0600
 
@@ -10,8 +43,8 @@ Date:   Fri May 7 09:11:50 2021 -0600
 
     CommitsEduardo
 
-commit 729ae3aff57db96b32cd68a381f14ee7dedd16ca (origin/master, origin/HEAD)
+commit 729ae3aff57db96b32cd68a381f14ee7dedd16ca
 Author: ToroLoco83 <ram_yosh222_@hotmail.com>
 Date:   Fri May 7 10:05:10 2021 -0500
 
-    Se añade codigo original 
+    Se añade codigo original
